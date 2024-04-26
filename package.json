@@ -1,6 +1,7 @@
 {
-  "homepage": "https://creativesyncpro.github.io/New_robofriends",
+  
   "name": "robofriends",
+  "homepage": "https://creativesyncpro.github.io/New_robofriends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
